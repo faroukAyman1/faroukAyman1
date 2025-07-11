@@ -27,7 +27,7 @@ class About extends Me {
     "OtherLanguages" : { "HTML", "CSS", },
     "Database" : { "Firebase", "Sqlite" },
     "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "IOS", "Android" ,"Mac", "Linux", "Windows", },
+    "Platforms" : { "IOS", "Android" ,"Mac", "Windows", "Linux" },
   };
 }
 ```
